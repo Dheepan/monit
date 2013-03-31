@@ -1,0 +1,38 @@
+Error!  'sudoku-battled' process PID changed from 25077 to 3863
+
+Error!  'sudoku-battled' process PID changed from 3863 to 13717
+
+Error!  'sudoku-battled' process PID changed from 13717 to 15272
+
+Error!  'myhost.mydomain.tld' cpu user usage of 85.3% matches resource limit [cpu user usage>70.0%]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 2.3 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' loadavg(1min) of 4.6 matches resource limit [loadavg(1min)>4.0]
+
+Error!  'myhost.mydomain.tld' cpu user usage of 85.6% matches resource limit [cpu user usage>70.0%]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 2.7 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' cpu user usage of 85.1% matches resource limit [cpu user usage>70.0%]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 3.3 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' cpu user usage of 84.8% matches resource limit [cpu user usage>70.0%]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' cpu user usage of 86.3% matches resource limit [cpu user usage>70.0%]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 4.6 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+
+Error!  'workerd' process PID changed from 4580 to 22956
+
+Error!  'hc-rproxy' process PID changed from 26021 to 27967
+

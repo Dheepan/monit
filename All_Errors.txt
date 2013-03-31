@@ -1,0 +1,306 @@
+Jun 19 09 33 29	 monit error connecting to the monit daemon
+
+Jun 19 17 10 36	 monit error connecting to the monit daemon
+
+Jun 19 17 16 03	 monit error connecting to the monit daemon
+
+Jun 19 17 17 14	 monit error connecting to the monit daemon
+
+Jun 20 10 41 11	 monit error connecting to the monit daemon
+
+Jun 22 07 37 09	 monit error connecting to the monit daemon
+
+Jun 22 07 37 24	 'sudoku-battled' process is not running
+
+Jun 22 07 37 54	 'sudoku-battled' failed to start
+
+Jun 22 07 39 27	 monit invalid argument -- help  (-h will show valid arguments)
+
+Jun 25 07 12 52	 'php5-fpm' process PID changed from 19495 to 12645
+
+Jun 25 11 06 56	 'workerd' process is not running
+
+Jun 25 12 56 58	 'workerd' process is not running
+
+Jun 25 12 58 58	 'workerd' process is not running
+
+Jun 25 13 00 59	 'workerd' process is not running
+
+Jun 25 13 02 59	 'workerd' process is not running
+
+Jun 25 13 04 59	 'workerd' process is not running
+
+Jun 25 13 07 00	 'workerd' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 01 35 04	 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 35 05	 'myhost.mydomain.tld' loadavg(1min) of 10.7 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 37 05	 'myhost.mydomain.tld' cpu user usage of 84.2% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 37 06	 'myhost.mydomain.tld' loadavg(5min) of 8.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 37 06	 'myhost.mydomain.tld' loadavg(1min) of 18.1 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' cpu user usage of 74.9% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' loadavg(5min) of 9.0 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' loadavg(1min) of 9.0 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 39 06	 'hc-rproxy' process is not running
+
+Jun 26 01 39 45	 monit invalid argument -- unmonitr  (-h will show valid arguments)
+
+Jun 26 01 39 49	 monit invalid argument -- unmonitr  (-h will show valid arguments)
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' cpu user usage of 71.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' loadavg(5min) of 8.3 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 41 57	 'myhost.mydomain.tld' loadavg(5min) of 6.7 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 43 58	 'myhost.mydomain.tld' loadavg(5min) of 4.8 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 45 58	 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 47 58	 'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 47 58	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 58	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 51 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 51 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 55 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 55 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 58 00	 'nginx' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 02 44 02	 'workerd' process PID changed from 17874 to 4580
+
+Jun 26 08 08 14	 'myhost.mydomain.tld' cpu user usage of 83.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 11 19 14	 'hc-rproxy' monitor action done
+
+Jun 26 15 11 24	 'hc-rproxy' process PID changed from 16253 to 26021
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 58 00	 'nginx' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 02 44 02	 'workerd' process PID changed from 17874 to 4580
+
+Jun 26 08 08 14	 'myhost.mydomain.tld' cpu user usage of 83.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 15 11 24	 'hc-rproxy' process PID changed from 16253 to 26021
+
+Jun 26 01 55 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 55 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 58 00	 'nginx' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 02 44 02	 'workerd' process PID changed from 17874 to 4580
+
+Jun 26 08 08 14	 'myhost.mydomain.tld' cpu user usage of 83.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 15 11 24	 'hc-rproxy' process PID changed from 16253 to 26021
+
+Jun 13 07 44 53	 State file '/var/lib/monit/state' Unable to read magic
+
+Jun 19 09 33 29	 monit error connecting to the monit daemon
+
+Jun 19 17 10 36	 monit error connecting to the monit daemon
+
+Jun 19 17 16 03	 monit error connecting to the monit daemon
+
+Jun 19 17 17 14	 monit error connecting to the monit daemon
+
+Jun 20 10 41 11	 monit error connecting to the monit daemon
+
+Jun 22 07 37 09	 monit error connecting to the monit daemon
+
+Jun 22 07 37 24	 'sudoku-battled' process is not running
+
+Jun 22 07 37 54	 'sudoku-battled' failed to start
+
+Jun 22 07 39 27	 monit invalid argument -- help  (-h will show valid arguments)
+
+Jun 25 07 12 52	 'php5-fpm' process PID changed from 19495 to 12645
+
+Jun 25 11 06 56	 'workerd' process is not running
+
+Jun 25 12 56 58	 'workerd' process is not running
+
+Jun 25 12 58 58	 'workerd' process is not running
+
+Jun 25 13 00 59	 'workerd' process is not running
+
+Jun 25 13 02 59	 'workerd' process is not running
+
+Jun 25 13 04 59	 'workerd' process is not running
+
+Jun 25 13 07 00	 'workerd' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 01 35 04	 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 35 05	 'myhost.mydomain.tld' loadavg(1min) of 10.7 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 37 05	 'myhost.mydomain.tld' cpu user usage of 84.2% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 37 06	 'myhost.mydomain.tld' loadavg(5min) of 8.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 37 06	 'myhost.mydomain.tld' loadavg(1min) of 18.1 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' cpu user usage of 74.9% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' loadavg(5min) of 9.0 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 39 06	 'myhost.mydomain.tld' loadavg(1min) of 9.0 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 39 06	 'hc-rproxy' process is not running
+
+Jun 26 01 39 45	 monit invalid argument -- unmonitr  (-h will show valid arguments)
+
+Jun 26 01 39 49	 monit invalid argument -- unmonitr  (-h will show valid arguments)
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' cpu user usage of 71.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' loadavg(5min) of 8.3 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 39 57	 'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+
+Jun 26 01 41 57	 'myhost.mydomain.tld' loadavg(5min) of 6.7 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 43 58	 'myhost.mydomain.tld' loadavg(5min) of 4.8 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 45 58	 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 47 58	 'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+
+Jun 26 01 47 58	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 47 58	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 58	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 49 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 51 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 51 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 53 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 55 59	 'nginx' failed, cannot open a connection to INET[127.0.0.181] via TCP
+
+Jun 26 01 55 59	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 56 00	 monit Error reading pid from file '/var/run/nginx.pid'
+
+Jun 26 01 58 00	 'nginx' service restarted 5 times within 5 cycles(s) - unmonitor
+
+Jun 26 02 44 02	 'workerd' process PID changed from 17874 to 4580
+
+Jun 26 08 08 14	 'myhost.mydomain.tld' cpu user usage of 83.7% matches resource limit [cpu user usage>70.0%]
+
+Jun 26 15 11 24	 'hc-rproxy' process PID changed from 16253 to 26021
+
+Jun 26 19 32 24	 'sudoku-battled' process PID changed from 25077 to 3863
+
+Jun 26 22 46 35	 'sudoku-battled' process PID changed from 3863 to 13717
+
+Jun 26 23 30 38	 'sudoku-battled' process PID changed from 13717 to 15272
+
+Jun 27 01 16 44	 'myhost.mydomain.tld' cpu user usage of 85.3% matches resource limit [cpu user usage>70.0%]
+
+Jun 27 01 16 45	 'myhost.mydomain.tld' loadavg(5min) of 2.3 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 16 45	 'myhost.mydomain.tld' loadavg(1min) of 4.6 matches resource limit [loadavg(1min)>4.0]
+
+Jun 27 01 18 45	 'myhost.mydomain.tld' cpu user usage of 85.6% matches resource limit [cpu user usage>70.0%]
+
+Jun 27 01 18 45	 'myhost.mydomain.tld' loadavg(5min) of 2.7 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 20 45	 'myhost.mydomain.tld' cpu user usage of 85.1% matches resource limit [cpu user usage>70.0%]
+
+Jun 27 01 20 45	 'myhost.mydomain.tld' loadavg(5min) of 3.3 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 22 45	 'myhost.mydomain.tld' cpu user usage of 84.8% matches resource limit [cpu user usage>70.0%]
+
+Jun 27 01 22 45	 'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 24 46	 'myhost.mydomain.tld' cpu user usage of 86.3% matches resource limit [cpu user usage>70.0%]
+
+Jun 27 01 24 46	 'myhost.mydomain.tld' loadavg(5min) of 4.6 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 24 46	 'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+
+Jun 27 01 26 47	 'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 01 28 47	 'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+
+Jun 27 02 38 50	 'workerd' process PID changed from 4580 to 22956
+
+Jun 27 04 50 56	 'hc-rproxy' process PID changed from 26021 to 27967
+

@@ -1,0 +1,176 @@
+[UTC Jun 13 07:44:53] info     : monit: generated unique Monit id e39c1d0c856ba3d3a7ab251a3ea52ccb and stored to '/var/lib/monit/id'
+[UTC Jun 13 07:44:53] info     : Starting monit daemon
+[UTC Jun 13 07:44:53] error    : State file '/var/lib/monit/state': Unable to read magic
+[UTC Jun 13 07:44:53] info     : 'system_ip-10-0-0-7' Monit started
+[UTC Jun 13 07:55:53] info     : monit daemon with pid [16059] killed
+[UTC Jun 13 07:55:53] info     : 'system_ip-10-0-0-7' Monit stopped
+[UTC Jun 13 07:57:35] info     : Starting monit daemon
+[UTC Jun 13 07:57:35] info     : 'system_ip-10-0-0-7' Monit started
+[UTC Jun 13 13:38:29] info     : monit daemon with pid [794] killed
+[UTC Jun 13 13:38:29] info     : 'system_ip-10-0-0-7' Monit stopped
+[UTC Jun 13 13:39:19] info     : Starting monit daemon
+[UTC Jun 13 13:39:19] info     : 'system_ip-10-0-0-7' Monit started
+[UTC Jun 13 15:20:16] info     : monit daemon with pid [896] killed
+[UTC Jun 13 15:20:16] info     : 'system_ip-10-0-0-7' Monit stopped
+[UTC Jun 13 15:20:58] info     : Starting monit daemon
+[UTC Jun 13 15:20:58] info     : 'system_ip-10-0-0-7' Monit started
+[UTC Jun 13 15:43:43] info     : monit daemon with pid [874] killed
+[UTC Jun 13 15:43:43] info     : 'system_ip-10-0-0-7' Monit stopped
+[UTC Jun 13 15:44:23] info     : Starting monit daemon
+[UTC Jun 13 15:44:23] info     : 'system_ip-10-0-0-7' Monit started
+[UTC Jun 19 09:33:29] error    : monit: error connecting to the monit daemon
+[UTC Jun 19 17:10:36] error    : monit: error connecting to the monit daemon
+[UTC Jun 19 17:16:03] error    : monit: error connecting to the monit daemon
+[UTC Jun 19 17:17:14] error    : monit: error connecting to the monit daemon
+[UTC Jun 20 10:41:11] error    : monit: error connecting to the monit daemon
+[UTC Jun 22 07:37:09] error    : monit: error connecting to the monit daemon
+[UTC Jun 22 07:37:23] info     : Awakened by the SIGHUP signal
+[UTC Jun 22 07:37:23] info     : Reinitializing monit - Control file '/etc/monit/monitrc'
+[UTC Jun 22 07:37:23] info     : Starting monit HTTP server at [localhost:2812]
+[UTC Jun 22 07:37:23] info     : monit HTTP server started
+[UTC Jun 22 07:37:23] info     : 'myhost.mydomain.tld' Monit reloaded
+[UTC Jun 22 07:37:24] error    : 'sudoku-battled' process is not running
+[UTC Jun 22 07:37:24] info     : 'sudoku-battled' trying to restart
+[UTC Jun 22 07:37:24] info     : 'sudoku-battled' start: /sbin/start
+[UTC Jun 22 07:37:54] error    : 'sudoku-battled' failed to start
+[UTC Jun 22 07:39:27] error    : monit: invalid argument -- help  (-h will show valid arguments)
+[UTC Jun 22 07:39:51] info     : 'sudoku-battled' unmonitor on user request
+[UTC Jun 22 07:39:51] info     : Awakened by User defined signal 1
+[UTC Jun 22 07:39:51] info     : monit daemon at 856 awakened
+[UTC Jun 22 07:39:51] info     : 'sudoku-battled' unmonitor action done
+[UTC Jun 25 07:12:52] error    : 'php5-fpm' process PID changed from 19495 to 12645
+[UTC Jun 25 07:14:52] info     : 'php5-fpm' process PID has not changed since last cycle
+[UTC Jun 25 11:06:56] error    : 'workerd' process is not running
+[UTC Jun 25 11:06:56] info     : 'workerd' trying to restart
+[UTC Jun 25 11:06:56] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 11:08:56] info     : 'workerd' process is running with pid 15690
+[UTC Jun 25 12:56:58] error    : 'workerd' process is not running
+[UTC Jun 25 12:56:58] info     : 'workerd' trying to restart
+[UTC Jun 25 12:56:58] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 12:58:58] error    : 'workerd' process is not running
+[UTC Jun 25 12:58:58] info     : 'workerd' trying to restart
+[UTC Jun 25 12:58:58] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 13:00:59] error    : 'workerd' process is not running
+[UTC Jun 25 13:00:59] info     : 'workerd' trying to restart
+[UTC Jun 25 13:00:59] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 13:02:59] error    : 'workerd' process is not running
+[UTC Jun 25 13:02:59] info     : 'workerd' trying to restart
+[UTC Jun 25 13:02:59] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 13:04:59] error    : 'workerd' process is not running
+[UTC Jun 25 13:04:59] info     : 'workerd' trying to restart
+[UTC Jun 25 13:04:59] info     : 'workerd' start: /etc/init.d/workerd
+[UTC Jun 25 13:07:00] error    : 'workerd' service restarted 5 times within 5 cycles(s) - unmonitor
+[UTC Jun 25 13:58:37] info     : 'workerd' monitor on user request
+[UTC Jun 25 13:58:37] info     : monit daemon at 856 awakened
+[UTC Jun 25 13:58:37] info     : Awakened by User defined signal 1
+[UTC Jun 25 13:58:37] info     : 'workerd' monitor action done
+[UTC Jun 26 01:35:04] error    : 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:35:05] error    : 'myhost.mydomain.tld' loadavg(1min) of 10.7 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 26 01:37:05] error    : 'myhost.mydomain.tld' cpu user usage of 84.2% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 26 01:37:06] error    : 'myhost.mydomain.tld' loadavg(5min) of 8.4 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:37:06] error    : 'myhost.mydomain.tld' loadavg(1min) of 18.1 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 26 01:39:06] error    : 'myhost.mydomain.tld' cpu user usage of 74.9% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 26 01:39:06] error    : 'myhost.mydomain.tld' loadavg(5min) of 9.0 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:39:06] error    : 'myhost.mydomain.tld' loadavg(1min) of 9.0 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 26 01:39:06] error    : 'hc-rproxy' process is not running
+[UTC Jun 26 01:39:07] info     : 'hc-rproxy' trying to restart
+[UTC Jun 26 01:39:07] info     : 'hc-rproxy' stop: /sbin/stop
+[UTC Jun 26 01:39:07] info     : 'hc-rproxy' start: /sbin/start
+[UTC Jun 26 01:39:45] error    : monit: invalid argument -- unmonitr  (-h will show valid arguments)
+[UTC Jun 26 01:39:49] error    : monit: invalid argument -- unmonitr  (-h will show valid arguments)
+[UTC Jun 26 01:39:56] info     : 'hc-rproxy' unmonitor on user request
+[UTC Jun 26 01:39:56] info     : monit daemon at 856 awakened
+[UTC Jun 26 01:39:56] info     : Awakened by User defined signal 1
+[UTC Jun 26 01:39:56] info     : 'hc-rproxy' unmonitor action done
+[UTC Jun 26 01:39:57] error    : 'myhost.mydomain.tld' cpu user usage of 71.7% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 26 01:39:57] error    : 'myhost.mydomain.tld' loadavg(5min) of 8.3 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:39:57] error    : 'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 26 01:41:57] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' cpu user usage check succeeded [current cpu user usage=68.5%]
+[UTC Jun 26 01:41:57] error    : 'myhost.mydomain.tld' loadavg(5min) of 6.7 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:41:57] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' loadavg(1min) check succeeded [current loadavg(1min)=3.5]
+[UTC Jun 26 01:43:58] error    : 'myhost.mydomain.tld' loadavg(5min) of 4.8 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:45:58] error    : 'myhost.mydomain.tld' loadavg(5min) of 3.4 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:47:58] error    : 'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 26 01:47:58] error    : 'nginx' failed, cannot open a connection to INET[127.0.0.1:81] via TCP
+[UTC Jun 26 01:47:58] info     : 'nginx' trying to restart
+[UTC Jun 26 01:47:58] info     : 'nginx' stop: /etc/init.d/nginx
+[UTC Jun 26 01:47:58] info     : 'nginx' start: /etc/init.d/nginx
+[UTC Jun 26 01:47:58] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:47:58] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:47:58] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:47:58] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:49:58] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' loadavg(5min) check succeeded [current loadavg(5min)=1.8]
+[UTC Jun 26 01:49:58] error    : 'nginx' failed, cannot open a connection to INET[127.0.0.1:81] via TCP
+[UTC Jun 26 01:49:58] info     : 'nginx' trying to restart
+[UTC Jun 26 01:49:58] info     : 'nginx' stop: /etc/init.d/nginx
+[UTC Jun 26 01:49:58] info     : 'nginx' start: /etc/init.d/nginx
+[UTC Jun 26 01:49:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:49:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:49:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:51:59] error    : 'nginx' failed, cannot open a connection to INET[127.0.0.1:81] via TCP
+[UTC Jun 26 01:51:59] info     : 'nginx' trying to restart
+[UTC Jun 26 01:51:59] info     : 'nginx' stop: /etc/init.d/nginx
+[UTC Jun 26 01:51:59] info     : 'nginx' start: /etc/init.d/nginx
+[UTC Jun 26 01:51:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:53:59] error    : 'nginx' failed, cannot open a connection to INET[127.0.0.1:81] via TCP
+[UTC Jun 26 01:53:59] info     : 'nginx' trying to restart
+[UTC Jun 26 01:53:59] info     : 'nginx' stop: /etc/init.d/nginx
+[UTC Jun 26 01:53:59] info     : 'nginx' start: /etc/init.d/nginx
+[UTC Jun 26 01:53:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:53:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:53:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:53:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:55:59] error    : 'nginx' failed, cannot open a connection to INET[127.0.0.1:81] via TCP
+[UTC Jun 26 01:55:59] info     : 'nginx' trying to restart
+[UTC Jun 26 01:55:59] info     : 'nginx' stop: /etc/init.d/nginx
+[UTC Jun 26 01:55:59] info     : 'nginx' start: /etc/init.d/nginx
+[UTC Jun 26 01:55:59] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:56:00] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:56:00] error    : monit: Error reading pid from file '/var/run/nginx.pid'
+[UTC Jun 26 01:58:00] error    : 'nginx' service restarted 5 times within 5 cycles(s) - unmonitor
+[UTC Jun 26 02:44:02] error    : 'workerd' process PID changed from 17874 to 4580
+[UTC Jun 26 02:46:02] info     : 'workerd' process PID has not changed since last cycle
+[UTC Jun 26 08:08:14] error    : 'myhost.mydomain.tld' cpu user usage of 83.7% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 26 08:10:15] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' cpu user usage check succeeded [current cpu user usage=11.7%]
+[UTC Jun 26 11:19:08] info     : 'nginx' monitor on user request
+[UTC Jun 26 11:19:08] info     : monit daemon at 856 awakened
+[UTC Jun 26 11:19:08] info     : Awakened by User defined signal 1
+[UTC Jun 26 11:19:08] info     : 'nginx' monitor action done
+[UTC Jun 26 11:19:14] info     : 'hc-rproxy' monitor on user request
+[UTC Jun 26 11:19:14] info     : monit daemon at 856 awakened
+[UTC Jun 26 11:19:14] info     : Awakened by User defined signal 1
+[UTC Jun 26 11:19:14] info     : 'hc-rproxy' monitor action done
+[UTC Jun 26 15:11:24] error    : 'hc-rproxy' process PID changed from 16253 to 26021
+[UTC Jun 26 15:13:24] info     : 'hc-rproxy' process PID has not changed since last cycle
+[UTC Jun 26 15:24:12] info     : 'sudoku-battled' monitor on user request
+[UTC Jun 26 15:24:12] info     : monit daemon at 856 awakened
+[UTC Jun 26 15:24:12] info     : Awakened by User defined signal 1
+[UTC Jun 26 15:24:12] info     : 'sudoku-battled' monitor action done
+[UTC Jun 26 19:32:24] error    : 'sudoku-battled' process PID changed from 25077 to 3863
+[UTC Jun 26 19:34:25] info     : 'sudoku-battled' process PID has not changed since last cycle
+[UTC Jun 26 22:46:35] error    : 'sudoku-battled' process PID changed from 3863 to 13717
+[UTC Jun 26 22:48:36] info     : 'sudoku-battled' process PID has not changed since last cycle
+[UTC Jun 26 23:30:38] error    : 'sudoku-battled' process PID changed from 13717 to 15272
+[UTC Jun 26 23:32:38] info     : 'sudoku-battled' process PID has not changed since last cycle
+[UTC Jun 27 01:16:44] error    : 'myhost.mydomain.tld' cpu user usage of 85.3% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 27 01:16:45] error    : 'myhost.mydomain.tld' loadavg(5min) of 2.3 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:16:45] error    : 'myhost.mydomain.tld' loadavg(1min) of 4.6 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 27 01:18:45] error    : 'myhost.mydomain.tld' cpu user usage of 85.6% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 27 01:18:45] error    : 'myhost.mydomain.tld' loadavg(5min) of 2.7 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:18:45] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' loadavg(1min) check succeeded [current loadavg(1min)=3.6]
+[UTC Jun 27 01:20:45] error    : 'myhost.mydomain.tld' cpu user usage of 85.1% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 27 01:20:45] error    : 'myhost.mydomain.tld' loadavg(5min) of 3.3 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:22:45] error    : 'myhost.mydomain.tld' cpu user usage of 84.8% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 27 01:22:45] error    : 'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:24:46] error    : 'myhost.mydomain.tld' cpu user usage of 86.3% matches resource limit [cpu user usage>70.0%]
+[UTC Jun 27 01:24:46] error    : 'myhost.mydomain.tld' loadavg(5min) of 4.6 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:24:46] error    : 'myhost.mydomain.tld' loadavg(1min) of 6.3 matches resource limit [loadavg(1min)>4.0]
+[UTC Jun 27 01:26:47] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' cpu user usage check succeeded [current cpu user usage=28.1%]
+[UTC Jun 27 01:26:47] error    : 'myhost.mydomain.tld' loadavg(5min) of 3.5 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:26:47] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' loadavg(1min) check succeeded [current loadavg(1min)=1.9]
+[UTC Jun 27 01:28:47] error    : 'myhost.mydomain.tld' loadavg(5min) of 2.5 matches resource limit [loadavg(5min)>2.0]
+[UTC Jun 27 01:30:47] info     : 'myhost.mydomain.tld' 'myhost.mydomain.tld' loadavg(5min) check succeeded [current loadavg(5min)=1.9]
+[UTC Jun 27 02:38:50] error    : 'workerd' process PID changed from 4580 to 22956
+[UTC Jun 27 02:40:50] info     : 'workerd' process PID has not changed since last cycle
+[UTC Jun 27 04:50:56] error    : 'hc-rproxy' process PID changed from 26021 to 27967
+[UTC Jun 27 04:52:57] info     : 'hc-rproxy' process PID has not changed since last cycle
