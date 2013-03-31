@@ -1,4 +1,4 @@
-MONITDIR="/Users/codeshepherd/Sites/git/automation/others/monit/"
-scp ubuntu@hashcube.com:/var/log/monit.log $MONITDIR
+MONITDIR="path to monti dir"
+scp user@domain.com:/var/log/monit.log $MONITDIR
 cd $MONITDIR; 
 python $MONITDIR/alert.py &
